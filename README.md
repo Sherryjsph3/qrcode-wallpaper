@@ -21,4 +21,4 @@ Design by UX/UI designer [Shirley Joseph](https://www.instagram.com/thatssoshirl
 ![Landing Page](imgs/landing-page.png)
 
 ## getting started
-* [Click here](hhttps://qrcode-wallpaper.netlify.app/) for landing page.
+* [Click here](https://qrcode-wallpaper.netlify.app/) for landing page.
