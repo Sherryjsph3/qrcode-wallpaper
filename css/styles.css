@@ -76,6 +76,12 @@ a:hover {
     padding: 17px 0 !important;
     margin: 0 auto !important;
 }
+.connect:hover {
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,0.9) 0%, rgba(255,255,255,0.5) 58%);
+    border: 2px solid #fff;
+    color: #000;
+}
 .copyright {
     text-align: center;
     margin: 30px auto 0;
