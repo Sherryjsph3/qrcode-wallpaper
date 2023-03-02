@@ -19,5 +19,6 @@ Design by UX/UI designer [Shirley Joseph](https://www.instagram.com/thatssoshirl
 ### Working locked screen & landing page
 ![Lockscreen](imgs/qrcode-wallpaper.png)
 ![Landing Page](imgs/landing-page.png)
+
 ## getting started
 * [Click here](hhttps://qrcode-wallpaper.netlify.app/) for landing page.
